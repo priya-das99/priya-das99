@@ -1,6 +1,7 @@
 ![logo](https://github.com/priya-das99/priya-das99/blob/main/Data%20Analyst%20Linkedin%20Background%20.png)
 # 💫 About Me:
-👋 Hi there! I'm Priya Das, and I kickstarted my career as a Support Head in a dynamic service-based company. In this role, I learned to help customer to solve technical problems related to cloud computing and other softwares and harwares while leading and managing teams effectively.<br><br>💼 My journey equipped me with robust communication skills and the ability to thrive in high-pressure environments. As a Support Head, I cultivated a deep understanding of client needs and ensured seamless service delivery.<br><br>🌱 Currently pursuing my first year of MCA, I'm expanding my horizons in the world of technology. I'm passionate about learning and eager to apply my newfound knowledge in data analytics, cloud computing, and more.
+👋 Hi there! I'm Priya Das, and I kickstarted my career as a Support Head in a dynamic service-based company. In this role, I learned to help customer to solve technical problems related to cloud computing and other softwares and harwares while leading and managing teams effectively.<br><br>💼 My journey equipped me with robust communication skills and the ability to thrive in high-pressure environments. As a Support Head, I cultivated a deep understanding of client needs and ensured seamless service delivery.<br><br>🌱 Currently pursuing my first year of MCA, I'm expanding my horizons in the world of technology. I'm passionate about learning and eager to apply my newfound knowledge in data analytics, cloud computing, and more.<br><br>🔭 Currently working on Diversified News Recommender system.
+
 
 
 ## 🌐 Socials:
